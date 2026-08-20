@@ -400,7 +400,7 @@
 
                         <li>
                             <i class="bi bi-check-circle-fill"></i>
-                            PHP & MySQL
+                            PHP(python, node.js, etc.)& MySQL
                         </li>
 
                         <li>
