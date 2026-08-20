@@ -121,7 +121,7 @@
                     <div class="price">
 
                         <span>₹</span>
-                        4,999
+                        4,999 +<small>GST</small>
 
                     </div>
 
@@ -209,7 +209,7 @@
                     <div class="price">
 
                         <span>₹</span>
-                        9,999
+                        9,999+ <small>GST</small>
 
                     </div>
 
@@ -294,7 +294,7 @@
                         <span>₹</span>
                         14,999
 
-                        <small>+</small>
+                        <small>+GST</small>
 
                     </div>
 
